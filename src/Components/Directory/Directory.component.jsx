@@ -1,6 +1,5 @@
 import CategoryItem from "../CategoryItem/CategoryItem";
 import "./Directory.styles.scss";
-import { useLocation } from "react-router-dom";
 const categories = [
   {
     id: 1,
