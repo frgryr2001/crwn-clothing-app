@@ -64,6 +64,8 @@ const PaymentForm = () => {
     <PaymentFormContainer>
       <FormContainer>
         <h2>Credit card payment: </h2>
+        <h3>4242 4242 4242 4242</h3>
+        <h3>0424 242 42424</h3>
         <CardElement />
         <PaymentButton
           buttonType={BUTTON_TYPES_CLASS.inverted}
